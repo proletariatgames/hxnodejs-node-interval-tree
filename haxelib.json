@@ -1,0 +1,14 @@
+{
+  "name": "hxnodejs-node-interval-tree",
+  "url": "https://github.com/proletariatgames/hxnodejs-node-interval-tree",
+  "license": "MIT",
+  "classPath": "src",
+  "tags": ["nodejs", "node-interval-tree"],
+  "description": "Externs for the node-interval-tree NPM module",
+  "releasenote": "Initial release",
+  "version": "1.0.0",
+  "contributors": ["Proletariat", "mfeldman-proletariat", "danogles", "waneck"],
+  "dependencies": {
+    "hxnodejs-node-interval-tree": ""
+  }
+}
