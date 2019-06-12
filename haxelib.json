@@ -9,6 +9,5 @@
   "version": "1.3.0",
   "contributors": ["Proletariat", "mfeldman-proletariat", "danogles", "waneck"],
   "dependencies": {
-    "hxnodejs-node-interval-tree": ""
   }
 }
