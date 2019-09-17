@@ -6,8 +6,8 @@
   "tags": ["nodejs", "node-interval-tree"],
   "description": "Externs for the node-interval-tree NPM module",
   "releasenote": "Initial release",
-  "version": "1.3.0",
-  "contributors": ["Proletariat", "mfeldman-proletariat", "danogles", "waneck"],
+  "version": "1.3.1",
+  "contributors": ["Proletariat", "ProletariatDev1"],
   "dependencies": {
   }
 }
